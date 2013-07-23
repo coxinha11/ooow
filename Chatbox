@@ -1,0 +1,25 @@
+<!doctype html><!--[if lt IE 7 ]><html lang="en" class="no-js ie6"><![endif]--><!--[if IE 7 ]><html lang="en" class="no-js ie7"><![endif]--><!--[if IE 8 ]><html lang="en" class="no-js ie8"><![endif]--><!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>plug.dj &ndash;&nbsp;11223s</title><link rel="icon" href="/_/static/images/favicon.6de70c7.png" type="image/png"><link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon"><meta property="og:title" content="Vem pra balada! Estamos vendo um videoclipe juntos."><meta property="og:image" content="/_/static/images/facebook01.5ee108d.png"/><meta property="og:site_name" content="plug.dj"><meta property="og:description" content="Plug.dj permite a você e a seus amigos montarem uma festa virtual. Assista clipes, converse e mostre seu talento em seleção musical, observando como seu avatar entra no ritmo!"><link rel="stylesheet" type="text/css" href="/_/static/css/room.524fb7f.css"/><!--LANGUAGE BLOCK--><link rel="stylesheet" type="text/css" href="/_/static/css/lang/pt.594056c.css"/><script type="text/javascript" >
+    var Slug = "e578df19";
+    var VERSION = '0.9.608';
+    var Sockurl = 'https://sjs.plug.dj/plug';
+    if (window.location.hash == '#_=_')
+    {
+        window.location.hash = '';
+        history.pushState('', document.title, window.location.pathname); // nice and clean
+    }
+</script><script type="text/javascript" src="/_/static/js/lang/pt.a06226c.js"></script><!--END LANGUAGE BLOCK--><script type="text/javascript" src="/_/static/js/avatars.94c77a3.js"></script><script type="text/javascript" src="/_/static/js/lib/require.916ed1b.js"></script><script>
+    require(["/_/static/js/core.1eaab99.js"], function (core) {
+        require(["/_/static/js/room.222ee45.js"]);
+    });
+</script></head><body><script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28569875-1']);
+    _gaq.push(['_setDomainName', 'plug.dj']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script></body></html>
